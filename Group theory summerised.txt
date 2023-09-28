@@ -1,0 +1,78 @@
+Group theory to study 2020
+
+
+1.order of a group is number of elements in a group
+
+
+2. Cosets are used to find the subgroup if there are any inside the group so called the subgroup cosets can be used to find it
+
+3.simple groups are the building blocks like prime numbers of other groups because simple group does not have any fighters just like prime numbers they cannot be factor and they are the building blocks of other groups
+
+Normal subgroups and quotient groups are most important aspects in abstract algebra which will determine how much the sum is possible between two groups
+
+And for finite groups normal subgroups act as an prime factorization
+
+Normal subgroup can also be used in the study of field study it later
+
+4. Normal subgroups determine how homomorphism is possible between two groups normal subgroup and quotient groups are responsible
+
+5.finitely generated abelian groups can be broken up into cyclic groups and cyclic groups of the basic building blocks of finitely generated abelian groups
+
+
+Homomorphism its asse connect identical and similar function are group
+
+  Homomorphism   Fundamental building blocks of groups
+
+We are going to find rings field and vector spaces and the Homomorphism
+some between them
+
+
+Homomorphism it is a way to compare two groups for structural similarity it preserve the structure between two groups
+
+
+Homomorphism the whole. Point is to find Structural similarity between two groups so it is the way to compare two groups it's a big idea and also tell that two groups are same but not similar similar but not same
+
+Homomorphism is a function between two groups which preserves the structure between two groups  for comparing its a tool  groups for similarities
+
+
+sometimes the group are more than similar they are identical this called isomorphism
+
+
+Homeomorphism between the groups it is not that it should be a one to one function if it is not and one to one then there is a group associated with homomorphism that measures the degree to which it is not an injection is group is called the kernel
+
+Properties of homomorphism are send identities to identities and inverses to inverses
+
+Journalist the property of homomorphism and not the groups
+
+kernel is a subset of g and it's more than that it is also a subgroup of g
+
+to make very good understanding first think that what makes it is a subgroup and what is a subgroup check your understanding just think that kernel is a subgroup
+
+Symmetry group sn a group of permutation of set of n elements is just a rearrangement of a set
+
+
+If you think permutation from a set to itself then the group operation is a function composition
+
+
+Symmetry groups are very important in writing software to study groups this field is called computational algebra
+
+Every finite group is a subgroup of symmetry group is result is called cayley's theorem
+
+
+
+Symmetry group it is a group of permutation on sets with n elements if you think permutation is a bijection from a set to itself then the group operation is function composition   Symmetry groups are very important in writing software to study groups this field is called computational algebra
+
+Dihedral group is not commutative  you another way to say it is that it is not abelian
+
+
+direct products are very important in making multiple groups are combining simple groups into a new group
+
+
+No subgroup then it is called simple group
+
+
+Ideal is a normal subgroup of a ring r and also a subring
+
+Ideals are not the suffering because they don't have multiplicative identity
+
+One ofthe goals in abstract algebra is to analyse the properties of these fields
